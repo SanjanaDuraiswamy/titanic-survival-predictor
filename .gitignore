@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+titanic_venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Streamlit cache and logs
+.streamlit/
+
+# Model files (optional — only if you're not sharing them)
+*.pkl
+*.joblib
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
