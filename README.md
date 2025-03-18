@@ -48,10 +48,10 @@ cd titanic-survival-predictor
 ```markdown
 2. **Create & activate a virtual environment**  
 ```bash
-# On Windows:
 python -m venv titanic_venv
 titanic_venv\Scripts\activate
 
-# On macOS/Linux:
-python3 -m venv titanic_venv
-source titanic_venv/bin/activate
+3.**Run the app**
+
+streamlit run app.py
+
