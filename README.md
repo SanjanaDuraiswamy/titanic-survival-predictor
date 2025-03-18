@@ -44,3 +44,14 @@ This project is a **Machine Learning web app** built with **Streamlit** that pre
 ```bash
 git clone https://github.com/SanjanaDuraiswamy/titanic-survival-predictor.git
 cd titanic-survival-predictor
+
+```markdown
+2. **Create & activate a virtual environment**  
+```bash
+# On Windows:
+python -m venv titanic_venv
+titanic_venv\Scripts\activate
+
+# On macOS/Linux:
+python3 -m venv titanic_venv
+source titanic_venv/bin/activate
